@@ -1,0 +1,6 @@
+a = int(input())
+b = int(input())
+set_arr = divmod(a, b)
+print(set_arr[0])
+print(set_arr[1])
+print(set_arr)
